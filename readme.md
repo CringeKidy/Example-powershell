@@ -1,4 +1,4 @@
-# Welcome to the PowerHsell Random user data Generator
+# Welcome to the Powershell Random user data Generator
 
 Thank you for exploring this PowerShell repository! In this example, we leverage the randomuser.me API to dynamically retrieve random user data and organize it into a user-friendly CSV file.
 
