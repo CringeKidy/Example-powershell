@@ -10,8 +10,9 @@ This script serves as a powerful tool for automating the generation of random us
 To run the script and generate a readable CSV File follow these steps:
 1. Clone the repository to your local machine
    1. `git clone https://github.com/CringeKidy/Example-powershell.git`
-2. Open a powershell Session 
-3. run this command:
+2. CD in Project Directory
+3. Open a powershell Session (on windows you can push Shift + left click and you will get option to open terminal/powershell session in current folder)
+4. run this command:
    1. `powershell.exe -ep bypass ./example.ps1`
 
 
